@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&family=Titillium+Web:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+body { 
+  background: url('bgim1.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+  font-size: 65px;
+  color:white;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.maintext1{
+font-size: 30px;
+font-family: 'Titillium Web', sans-serif;
+color:white;
+}
+.maintext2{
+font-size: 30px;
+font-family: 'Titillium Web', sans-serif;
+color:white;
+}
+.maintext3{
+font-size: 30px;
+font-family: 'Titillium Web', sans-serif;
+color:white;
+}
+.maintext4{
+font-size: 30px;
+font-family: 'Titillium Web', sans-serif;
+color:white;
+}
